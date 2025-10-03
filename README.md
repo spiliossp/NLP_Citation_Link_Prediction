@@ -1,4 +1,4 @@
-# NLP_Citation_Link_Prediction
+# Citation Link Prediction with NLP
 ----------------------------------------------------------
 * Predict whether an academic paper cites another paper. 
 * Find missing links. 
